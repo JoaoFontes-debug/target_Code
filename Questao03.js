@@ -27,7 +27,7 @@ try {
     }
 
     if (valores.length === 0) {
-        console.log('Não há dados válidos para cálculo.');
+        console.log('Não há dados');
         return;
     }
 
